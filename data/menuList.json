@@ -14,7 +14,7 @@
       "description": "Blueberry syrup, whipped cream, caramelized almonds",
       "weight": "250 g",
       "price": "72 €",
-      "picture": "../img/menuPicture/breakfast/Golden_Peaks_Pancakes.png"
+      "picture": "img/menuPicture/breakfast/Golden_Peaks_Pancakes.png"
     },
     {
       "name": "Shepherd’s Omelette",
@@ -22,7 +22,7 @@
       "description": "Wild mushrooms, goat cheese, thyme",
       "weight": "250 g",
       "price": "65 €",
-      "picture": "../img/menuPicture/breakfast/Shepherd’s_Omelette.png"
+      "picture": "img/menuPicture/breakfast/Shepherd’s_Omelette.png"
     },
     {
       "name": "Morning in Tyrol",
@@ -30,7 +30,7 @@
       "description": "Croissants, mountain honey, apricot jam, herbal tea",
       "weight": "400 g",
       "price": "86 €",
-      "picture": "../img/menuPicture/breakfast/Morning_in_Tyrol.png"
+      "picture": "img/menuPicture/breakfast/Morning_in_Tyrol.png"
     },
     {
       "name": "Himmelskrone Breakfast Board",
@@ -38,7 +38,7 @@
       "description": "Aged cheeses, smoked venison, forest berries, warm bread",
       "weight": "380 g",
       "price": "179 €",
-      "picture": "../img/menuPicture/breakfast/Himmelskrone_Breakfast_Board.png"
+      "picture": "img/menuPicture/breakfast/Himmelskrone_Breakfast_Board.png"
     }
   ],
   "meat": [
@@ -128,7 +128,7 @@
       "description": "Dry-aged ribeye with rosemary butter",
       "weight": "300 g",
       "price": "220 €",
-      "picture": "../img/menuPicture/meat/Ember_Crown_Steak.png"
+      "picture": "img/menuPicture/meat/Ember_Crown_Steak.png"
     },
     {
       "name": "Hunter’s Venison",
@@ -136,7 +136,7 @@
       "description": "Red wine sauce, roasted roots, forest herbs",
       "weight": "350 g",
       "price": "264 €",
-      "picture": "../img/menuPicture/meat/Hunter’s_Venison.png"
+      "picture": "img/menuPicture/meat/Hunter’s_Venison.png"
     },
     {
       "name": "Alpine Lamb Rack",
@@ -144,7 +144,7 @@
       "description": "Garlic crust, thyme potatoes",
       "weight": "300 g",
       "price": "252 €",
-      "picture": "../img/menuPicture/meat/Alpine_Lamb_Rack.png"
+      "picture": "img/menuPicture/meat/Alpine_Lamb_Rack.png"
     },
     {
       "name": "Firewood Beef Ribs",
@@ -152,7 +152,7 @@
       "description": "Slow-cooked ribs glazed in smoky sauce",
       "weight": "400 g",
       "price": "240 €",
-      "picture": "../img/menuPicture/meat/Firewood_Beef_Ribs.png"
+      "picture": "img/menuPicture/meat/Firewood_Beef_Ribs.png"
     },
     {
       "name": "Iron Skillet Tenderloin",
@@ -160,7 +160,7 @@
       "description": "Peppercorn sauce, grilled vegetables",
       "weight": "330 g",
       "price": "128 €",
-      "picture": "../img/menuPicture/meat/Iron_Skillet_Tenderloin.png"
+      "picture": "img/menuPicture/meat/Iron_Skillet_Tenderloin.png"
     }
   ],
   "fish_and_seafood": [
@@ -170,7 +170,7 @@
       "description": "Cold-smoked salmon with lemon cream",
       "weight": "380 g",
       "price": "183 €",
-      "picture": "../img/menuPicture/fish and seafood/Glacier_Salmon.png"
+      "picture": "img/menuPicture/fish and seafood/Glacier_Salmon.png"
     },
     {
       "name": "Northern Sea Bass",
@@ -236,7 +236,7 @@
       "description": "Avocado, cucumber, lime dressing",
       "weight": "250 g",
       "price": "134 €",
-      "picture": "../img/menuPicture/salads/Emerald_Valley.png"
+      "picture": "img/menuPicture/salads/Emerald_Valley.png"
     },
     {
       "name": "Alpine Beetroot",
@@ -254,7 +254,7 @@
       "description": "Tomatoes, basil, olive oil",
       "weight": "150 g",
       "price": "46 €",
-      "picture": "../img/menuPicture/snacks/Stonefire_Bruschetta.png"
+      "picture": "img/menuPicture/snacks/Stonefire_Bruschetta.png"
     },
     {
       "name": "Tavern Fries",
@@ -288,7 +288,7 @@
       "description": "Vanilla cream, mountain berries",
       "weight": "200 g",
       "price": "66 €",
-      "picture": "../img/menuPicture/desserts/Cloudberry_Tart.png"
+      "picture": "img/menuPicture/desserts/Cloudberry_Tart.png"
     },
     {
       "name": "Frozen Peak",
@@ -296,7 +296,7 @@
       "description": "White chocolate mousse, mint crystal",
       "weight": "180 g",
       "price": "83 €",
-      "picture": "../img/menuPicture/desserts/Frozen_Peak.png"
+      "picture": "img/menuPicture/desserts/Frozen_Peak.png"
     },
     {
       "name": "Ember Chocolate Cake",
@@ -304,7 +304,7 @@
       "description": "Warm chocolate center",
       "weight": "200 g",
       "price": "72 €",
-      "picture": "../img/menuPicture/desserts/Ember_Chocolate_Cake.png"
+      "picture": "img/menuPicture/desserts/Ember_Chocolate_Cake.png"
     },
     {
       "name": "Northern Lights",
@@ -312,7 +312,7 @@
       "description": "Blueberry panna cotta",
       "weight": "120 g",
       "price": "50 €",
-      "picture": "../img/menuPicture/desserts/Northern_Lights.png"
+      "picture": "img/menuPicture/desserts/Northern_Lights.png"
     },
     {
       "name": "Crown of Snow",
@@ -320,7 +320,7 @@
       "description": "Coconut cream dessert with silver flakes",
       "weight": "200 g",
       "price": "92 €",
-      "picture": "../img/menuPicture/desserts/Crown_of_Snow.png"
+      "picture": "img/menuPicture/desserts/Crown_of_Snow.png"
     }
   ],
   "drinks": [
