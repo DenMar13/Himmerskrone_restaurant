@@ -1,0 +1,28 @@
+{ 
+    "events": [ 
+        { 
+            "name": "Wedding", 
+            "description": "Celebrate your special day high above the clouds in an elegant alpine castle. Exclusive halls, panoramic mountain views, gourmet cuisine, and personalized service create an unforgettable wedding experience for couples and their guests.", 
+            "kol_guests": "10 - 40 persons", 
+            "booking_time": "30 - 60 days", 
+            "booking_price": "3200 €", 
+            "picture": "../img/eventPicture/wedding_day.png"
+        }, 
+        {   
+            "name": "Birthday", 
+            "description": "Enjoy a luxurious birthday celebration with fine dining, live music, signature desserts, and breathtaking scenery. Whether an intimate gathering or a grand party, every detail is tailored to create lasting memories.", 
+            "kol_guests": "10 - 40 persons", 
+            "booking_time": "7 - 30 days", 
+            "booking_price": "2600 €", 
+            "picture": "../img/eventPicture/birthday.png" 
+        }, 
+        { 
+            "name": "New Year", 
+            "description": "Welcome the New Year with an exclusive gala dinner, festive decorations, live performances, champagne at midnight, and spectacular views above the winter clouds. A magical evening designed for an unforgettable holiday experience.", 
+            "kol_guests": "1 - 40 persons", 
+            "booking_time": "30 - 90 days", 
+            "booking_price": "300 € / one", 
+            "picture": "../img/eventPicture/newYear.png" 
+        } 
+    ] 
+}

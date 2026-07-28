@@ -1,0 +1,520 @@
+{
+  "breakfast": [
+    {
+      "name": "Alpine Sunrise",
+      "group": "Breakfast",
+      "description": "Poached eggs, mountain herbs, rye toast, truffle butter",
+      "weight": "300 g",
+      "price": "96 €",
+      "picture": "../img/menuPicture/breakfast/Alpine_Sunrise.png"
+    },
+    {
+      "name": "Golden Peaks Pancakes",
+      "group": "Breakfast",
+      "description": "Blueberry syrup, whipped cream, caramelized almonds",
+      "weight": "250 g",
+      "price": "72 €",
+      "picture": "../img/menuPicture/breakfast/Golden_Peaks_Pancakes.png"
+    },
+    {
+      "name": "Shepherd’s Omelette",
+      "group": "Breakfast",
+      "description": "Wild mushrooms, goat cheese, thyme",
+      "weight": "250 g",
+      "price": "65 €",
+      "picture": "../img/menuPicture/breakfast/Shepherd’s_Omelette.png"
+    },
+    {
+      "name": "Morning in Tyrol",
+      "group": "Breakfast",
+      "description": "Croissants, mountain honey, apricot jam, herbal tea",
+      "weight": "400 g",
+      "price": "86 €",
+      "picture": "../img/menuPicture/breakfast/Morning_in_Tyrol.png"
+    },
+    {
+      "name": "Himmelskrone Breakfast Board",
+      "group": "Breakfast",
+      "description": "Aged cheeses, smoked venison, forest berries, warm bread",
+      "weight": "380 g",
+      "price": "179 €",
+      "picture": "../img/menuPicture/breakfast/Himmelskrone_Breakfast_Board.png"
+    }
+  ],
+  "meat": [
+    {
+      "name": "Chicken steak",
+      "group": "Classical steaks",
+      "description": "Grilled chicken breast",
+      "weight": "100 g",
+      "price": "33 €",
+      "picture": ""
+    },
+    {
+      "name": "Pork steak",
+      "group": "Classical steaks",
+      "description": "Grilled pork",
+      "weight": "100 g",
+      "price": "40 €",
+      "picture": ""
+    },
+    {
+      "name": "lamb steak",
+      "group": "Classical steaks",
+      "description": "Grilled lamb",
+      "weight": "100 g",
+      "price": "52 €",
+      "picture": ""
+    },
+    {
+      "name": "Deer steak",
+      "group": "Classical steaks",
+      "description": "Grilled deer",
+      "weight": "100 g",
+      "price": "80 €",
+      "picture": ""
+    },
+    {
+      "name": "Ribeye steak",
+      "group": "Classical steaks",
+      "description": "Premium, highly marbled beef steak cut from the rib section of the cattle",
+      "weight": "100 g",
+      "price": "78 €",
+      "picture": ""
+    },
+    {
+      "name": "Tomahawk steak",
+      "group": "Classical steaks",
+      "description": "Dry-aged premium beef",
+      "weight": "800 g",
+      "price": "254 €",
+      "picture": ""
+    },
+    {
+      "name": "Chicken shashlik",
+      "group": "Shashlik",
+      "description": "Classic chicken shashlik",
+      "weight": "300 g",
+      "price": "68 €",
+      "picture": ""
+    },
+    {
+      "name": "Pork shashlik",
+      "group": "Shashlik",
+      "description": "Classic pork shashlik",
+      "weight": "300 g",
+      "price": "100 €",
+      "picture": ""
+    },
+    {
+      "name": "Lamb shashlik",
+      "group": "Shashlik",
+      "description": "Classic lamb shashlik",
+      "weight": "300 g",
+      "price": "140 €",
+      "picture": ""
+    },
+    {
+      "name": "Venison Shashlik",
+      "group": "Shashlik",
+      "description": "Wild deer shashlik",
+      "weight": "300 g",
+      "price": "180 €",
+      "picture": ""
+    },
+    {
+      "name": "Ember Crown Steak",
+      "group": "Unique recipe",
+      "description": "Dry-aged ribeye with rosemary butter",
+      "weight": "300 g",
+      "price": "220 €",
+      "picture": "../img/menuPicture/meat/Ember_Crown_Steak.png"
+    },
+    {
+      "name": "Hunter’s Venison",
+      "group": "Unique recipe",
+      "description": "Red wine sauce, roasted roots, forest herbs",
+      "weight": "350 g",
+      "price": "264 €",
+      "picture": "../img/menuPicture/meat/Hunter’s_Venison.png"
+    },
+    {
+      "name": "Alpine Lamb Rack",
+      "group": "Unique recipe",
+      "description": "Garlic crust, thyme potatoes",
+      "weight": "300 g",
+      "price": "252 €",
+      "picture": "../img/menuPicture/meat/Alpine_Lamb_Rack.png"
+    },
+    {
+      "name": "Firewood Beef Ribs",
+      "group": "Unique recipe",
+      "description": "Slow-cooked ribs glazed in smoky sauce",
+      "weight": "400 g",
+      "price": "240 €",
+      "picture": "../img/menuPicture/meat/Firewood_Beef_Ribs.png"
+    },
+    {
+      "name": "Iron Skillet Tenderloin",
+      "group": "Unique recipe",
+      "description": "Peppercorn sauce, grilled vegetables",
+      "weight": "330 g",
+      "price": "128 €",
+      "picture": "../img/menuPicture/meat/Iron_Skillet_Tenderloin.png"
+    }
+  ],
+  "fish_and_seafood": [
+    {
+      "name": "Glacier Salmon",
+      "group": "Fish",
+      "description": "Cold-smoked salmon with lemon cream",
+      "weight": "380 g",
+      "price": "183 €",
+      "picture": "../img/menuPicture/fish and seafood/Glacier_Salmon.png"
+    },
+    {
+      "name": "Northern Sea Bass",
+      "group": "Fish",
+      "description": "White wine sauce, asparagus",
+      "weight": "320 g",
+      "price": "170 €",
+      "picture": ""
+    },
+    {
+      "name": "Royal Scallops",
+      "group": "Seafood",
+      "description": "Garlic butter, herb oil",
+      "weight": "300 g",
+      "price": "192 €",
+      "picture": ""
+    },
+    {
+      "name": "Cloudshrimp Linguine",
+      "group": "Seafood",
+      "description": "Shrimps, parmesan cream, basil",
+      "weight": "280 g",
+      "price": "184 €",
+      "picture": ""
+    },
+    {
+      "name": "Mediterranean oysters",
+      "group": "Seafood",
+      "description": "8 mediterranean oysters with ice, oranges and lemons",
+      "weight": "680 g",
+      "price": "204 €",
+      "picture": ""
+    },
+    {
+      "name": "Ocean Plateau (VIP)",
+      "group": "Seafood",
+      "description": "12 ocean oysters, crab meat, citrus dressing",
+      "weight": "1200 g",
+      "price": "382 €",
+      "picture": ""
+    }
+  ],
+  "salads": [
+    {
+      "name": "Mountain Garden",
+      "group": "Salads",
+      "description": "Fresh greens, berries, walnuts, goat cheese",
+      "weight": "200 g",
+      "price": "60 €",
+      "picture": ""
+    },
+    {
+      "name": "Caesar Himmelskrone",
+      "group": "Salads",
+      "description": "Charcoal chicken, parmesan crisp",
+      "weight": "250 g",
+      "price": "76 €",
+      "picture": ""
+    },
+    {
+      "name": "Emerald Valley",
+      "group": "Salads",
+      "description": "Avocado, cucumber, lime dressing",
+      "weight": "250 g",
+      "price": "134 €",
+      "picture": "../img/menuPicture/salads/Emerald_Valley.png"
+    },
+    {
+      "name": "Alpine Beetroot",
+      "group": "Salads",
+      "description": "Beetroot, feta, pine nuts",
+      "weight": "270 g",
+      "price": "78 €",
+      "picture": ""
+    }
+  ],
+  "snacks": [
+    {
+      "name": "Stonefire Bruschetta",
+      "group": "Snacks",
+      "description": "Tomatoes, basil, olive oil",
+      "weight": "150 g",
+      "price": "46 €",
+      "picture": "../img/menuPicture/snacks/Stonefire_Bruschetta.png"
+    },
+    {
+      "name": "Tavern Fries",
+      "group": "Snacks",
+      "description": "Herb potatoes with garlic sauce",
+      "weight": "160 g",
+      "price": "52 €",
+      "picture": ""
+    },
+    {
+      "name": "Smoked Cheese Bites",
+      "group": "Snacks",
+      "description": "Breaded alpine cheese",
+      "weight": "120 g",
+      "price": "40 €",
+      "picture": ""
+    },
+    {
+      "name": "Hunters Board (Plato)",
+      "group": "Snacks",
+      "description": "Cured meats, pickles, rye bread",
+      "weight": "500 g",
+      "price": "158 €",
+      "picture": ""
+    }
+  ],
+  "desserts": [
+    {
+      "name": "Cloudberry Tart",
+      "group": "Desserts",
+      "description": "Vanilla cream, mountain berries",
+      "weight": "200 g",
+      "price": "66 €",
+      "picture": "../img/menuPicture/desserts/Cloudberry_Tart.png"
+    },
+    {
+      "name": "Frozen Peak",
+      "group": "Desserts",
+      "description": "White chocolate mousse, mint crystal",
+      "weight": "180 g",
+      "price": "83 €",
+      "picture": "../img/menuPicture/desserts/Frozen_Peak.png"
+    },
+    {
+      "name": "Ember Chocolate Cake",
+      "group": "Desserts",
+      "description": "Warm chocolate center",
+      "weight": "200 g",
+      "price": "72 €",
+      "picture": "../img/menuPicture/desserts/Ember_Chocolate_Cake.png"
+    },
+    {
+      "name": "Northern Lights",
+      "group": "Desserts",
+      "description": "Blueberry panna cotta",
+      "weight": "120 g",
+      "price": "50 €",
+      "picture": "../img/menuPicture/desserts/Northern_Lights.png"
+    },
+    {
+      "name": "Crown of Snow",
+      "group": "Desserts",
+      "description": "Coconut cream dessert with silver flakes",
+      "weight": "200 g",
+      "price": "92 €",
+      "picture": "../img/menuPicture/desserts/Crown_of_Snow.png"
+    }
+  ],
+  "drinks": [
+    {
+      "name": "Stella Artois",
+      "group": "Beer",
+      "description": "Light beer 4.5%",
+      "weight": "500 ml",
+      "price": "26 €",
+      "picture": ""
+    },
+    {
+      "name": "Tmavé",
+      "group": "Beer",
+      "description": "Dark beer 4.5%",
+      "weight": "500 ml",
+      "price": "22 €",
+      "picture": ""
+    },
+    {
+      "name": "Hirter Morchl",
+      "group": "Beer",
+      "description": "Dark beer 5.2%",
+      "weight": "500 ml",
+      "price": "32 €",
+      "picture": ""
+    },
+    {
+      "name": "Skybound Wine",
+      "group": "Red wine",
+      "description": "House red wine",
+      "weight": "150 ml",
+      "price": "60 €",
+      "picture": ""
+    },
+    {
+      "name": "Pomegranate Wine",
+      "group": "Red wine",
+      "description": "House red wine",
+      "weight": "150 ml",
+      "price": "62 €",
+      "picture": ""
+    },
+    {
+      "name": "Blauer Zweigelt",
+      "group": "Red wine",
+      "description": "Dry red wine",
+      "weight": "150 ml / 700 ml",
+      "price": "70 € / 350 €",
+      "picture": ""
+    },
+    {
+      "name": "Ruster Ausbruch DAC",
+      "group": "Red wine",
+      "description": "Sweet red wine",
+      "weight": "150 ml / 700 ml",
+      "price": "68 € / 340 €",
+      "picture": ""
+    },
+    {
+      "name": "Mondeuse (FR)",
+      "group": "Red wine",
+      "description": "Dry red wine",
+      "weight": "150 ml / 700 ml",
+      "price": "85 € / 420 €",
+      "picture": ""
+    },
+    {
+      "name": "House white wine",
+      "group": "White wine",
+      "description": "Home white wine",
+      "weight": "150 ml",
+      "price": "54 €",
+      "picture": ""
+    },
+    {
+      "name": "Grüner Veltliner",
+      "group": "White wine",
+      "description": "Dry white wine",
+      "weight": "150 ml / 700 ml",
+      "price": "92 € / 450 €",
+      "picture": ""
+    },
+    {
+      "name": "Moscato d'Asti (IT)",
+      "group": "White wine",
+      "description": "Sweet white wine",
+      "weight": "150 ml / 700 ml",
+      "price": "82 € / 400 €",
+      "picture": ""
+    },
+    {
+      "name": "Mountain's berry",
+      "group": "Cocktail",
+      "description": "Frosted Berry Cocktail",
+      "weight": "250 ml",
+      "price": "73 €",
+      "picture": ""
+    },
+    {
+      "name": "Blue Lagoon",
+      "group": "Cocktail",
+      "description": "Classic Blue Lagoon",
+      "weight": "250 ml",
+      "price": "68 €",
+      "picture": ""
+    },
+    {
+      "name": "Pina Colada",
+      "group": "Cocktail",
+      "description": "Classic Pina Colada",
+      "weight": "220 ml",
+      "price": "64 €",
+      "picture": ""
+    },
+    {
+      "name": "Green Mexican",
+      "group": "Cocktail",
+      "description": "Classic Green Mexican",
+      "weight": "60 ml",
+      "price": "48 €",
+      "picture": ""
+    },
+    {
+      "name": "B-52",
+      "group": "Cocktail",
+      "description": "Classic B-52",
+      "weight": "70 ml",
+      "price": "52 €",
+      "picture": ""
+    },
+    {
+      "name": "London Dry Gin",
+      "group": "Strong alcohol",
+      "description": "Gin 38%",
+      "weight": "50 ml / 500 ml",
+      "price": "38 € / 370 €",
+      "picture": ""
+    },
+    {
+      "name": "Hennessy cognac",
+      "group": "Strong alcohol",
+      "description": "Cognac 40%",
+      "weight": "50 ml / 500 ml",
+      "price": "74 € / 720 €",
+      "picture": ""
+    },
+    {
+      "name": "Absolut Vodka",
+      "group": "Strong alcohol",
+      "description": "Vodka 40%",
+      "weight": "50 ml / 500 ml",
+      "price": "55 € / 540 €",
+      "picture": ""
+    },
+    {
+      "name": "Golden Mead",
+      "group": "Others alcohol drinks",
+      "description": "Honey-based traditional drink",
+      "weight": "500 ml",
+      "price": "44 €",
+      "picture": ""
+    },
+    {
+      "name": "Mulled wine",
+      "group": "Others alcohol drinks",
+      "description": "Mulled wine with Sea buckthorn",
+      "weight": "500 ml",
+      "price": "28 €",
+      "picture": ""
+    },
+    {
+      "name": "Alpine Herbal Tea",
+      "group": "Coffee & tea",
+      "description": "Mint, thyme, mountain herbs",
+      "weight": "300 ml",
+      "price": "32 €",
+      "picture": ""
+    },
+    {
+      "name": "Midnight Espresso",
+      "group": "Coffee & tea",
+      "description": "Dark roast coffee",
+      "weight": "100 ml",
+      "price": "17 €",
+      "picture": ""
+    },
+    {
+      "name": "Latte",
+      "group": "Coffee & tea",
+      "description": "Classical Latte with syrup of your choice",
+      "weight": "330 ml",
+      "price": "20 €",
+      "picture": ""
+    }
+  ]
+}
