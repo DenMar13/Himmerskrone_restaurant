@@ -6,7 +6,7 @@
             "kol_guests": "10 - 40 persons", 
             "booking_time": "30 - 60 days", 
             "booking_price": "3200 €", 
-            "picture": "../img/eventPicture/wedding_day.png"
+            "picture": "img/eventPicture/wedding_day.png"
         }, 
         {   
             "name": "Birthday", 
@@ -14,7 +14,7 @@
             "kol_guests": "10 - 40 persons", 
             "booking_time": "7 - 30 days", 
             "booking_price": "2600 €", 
-            "picture": "../img/eventPicture/birthday.png" 
+            "picture": "img/eventPicture/birthday.png" 
         }, 
         { 
             "name": "New Year", 
@@ -22,7 +22,7 @@
             "kol_guests": "1 - 40 persons", 
             "booking_time": "30 - 90 days", 
             "booking_price": "300 € / one", 
-            "picture": "../img/eventPicture/newYear.png" 
+            "picture": "img/eventPicture/newYear.png" 
         } 
     ] 
 }

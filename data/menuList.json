@@ -6,7 +6,7 @@
       "description": "Poached eggs, mountain herbs, rye toast, truffle butter",
       "weight": "300 g",
       "price": "96 €",
-      "picture": "../img/menuPicture/breakfast/Alpine_Sunrise.png"
+      "picture": "img/menuPicture/breakfast/Alpine_Sunrise.png"
     },
     {
       "name": "Golden Peaks Pancakes",
